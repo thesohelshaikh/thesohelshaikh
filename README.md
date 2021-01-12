@@ -1,6 +1,7 @@
 ### Hi there, I'm Sohel! 👋
 
-<p align="center"> 
+![Sohel Github stats](https://github-readme-stats.vercel.app/api?username=thesohelshaikh)
+<p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/thesohelshaikh/count.svg" />
 </p>
