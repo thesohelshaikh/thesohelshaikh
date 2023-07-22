@@ -1,9 +1,20 @@
 ### Hi there, I'm Sohel! 👋
 
-![Sohel Github stats](https://github-readme-stats.vercel.app/api?username=thesohelshaikh)
-<p> 
+I like to build mobile apps.
+
+![Sohel Github stats](https://github-readme-stats.vercel.app/api?username=thesohelshaikh&show_icons=true&hide_rank=true)
+
+### Languages and Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,sqlite,firebase,gcp,githubactions,idea,postman,git,vim,figma" />
+  </a>
+</p>
+
+<p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/thesohelshaikh/count.svg" />
+  <img src="https://profile-counter.glitch.me/thesohelshaikh/count.svg" height="20" />
 </p>
 
 <!--
